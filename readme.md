@@ -1,0 +1,5 @@
+- To setup use `bundle install`
+- Use input.txt under `vi seed/input.txt` to provide input data
+- Run by `rake run` or `rake run[input.txt]`
+- Run test by `rake test`
+- Check test coverage under `tmp/coverage/index.html` 
